@@ -1,0 +1,4 @@
+1.add touch start event to enable selecting text on mobile.
+2.run closeDrag function when mouseup to prevent fast moving of the mouse when dragging the text
+3.modify font size in mobile mode
+4.disable controlling the width of the meme as it messing up the design
